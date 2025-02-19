@@ -1,0 +1,38 @@
+_repo: The-Delinquent-Vol-IV-No-8-August-1914_75368
+_version: 0.0.1
+contributor:
+  publisher_contributor:
+    agent_name: National Prisoners' Aid Association
+    alias: Association, National Prisoners' Aid
+    gutenberg_agent_id: '48081'
+    url: http://www.gutenberg.org/2009/agents/48081
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2025-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75368'
+language: en
+pgterms:marc905: 20161102063041various
+pgterms:marc906: Various
+pgterms:marc907: US
+production_note: SF2001 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aNew York :$bNational Prisoners'' Aid Association, $cVarious.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisons -- Periodicals'
+- !lcc 'HV'
+- GITenberg
+title: The Delinquent, Vol. IV, No. 8, August, 1914
+url: http://www.gutenberg.org/ebooks/75368
