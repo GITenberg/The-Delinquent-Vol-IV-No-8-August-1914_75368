@@ -6,6 +6,9 @@ contributor:
     alias: Association, National Prisoners' Aid
     gutenberg_agent_id: '48081'
     url: http://www.gutenberg.org/2009/agents/48081
+covers:
+- cover_type: archival
+  image_path: 75368-h/images/cover.png
 creator:
   author:
     agent_name: Various
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75368#The-Delinquent-Vol-IV-No-8-August-1914
 gutenberg_issued: '2025-02-13'
 gutenberg_type: Text
 identifiers:
